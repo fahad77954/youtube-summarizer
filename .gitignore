@@ -12,6 +12,13 @@ ENV/
 # Streamlit secrets (Crucial to keep your API keys safe!)
 .streamlit/secrets.toml
 
+# IDE and Editor files (VS Code, PyCharm)
+.vscode/
+.idea/
+
 # Operating System files
 .DS_Store
 Thumbs.db
+
+# Logs
+*.log
