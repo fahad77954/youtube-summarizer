@@ -1,0 +1,17 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env
+.venv
+ENV/
+
+# Streamlit secrets (Crucial to keep your API keys safe!)
+.streamlit/secrets.toml
+
+# Operating System files
+.DS_Store
+Thumbs.db
