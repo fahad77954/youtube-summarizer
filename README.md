@@ -2,8 +2,6 @@
 
 A lightning-fast web application built with **Python** and **Streamlit** that extracts transcripts from YouTube videos and generates comprehensive, concise summaries using the **Groq API**.
 
-🌐 **Live Demo:** [Click here to open the app](https://fahad-yt-summarizer.streamlit.app)
-
 ---
 
 ## 🚀 Features
